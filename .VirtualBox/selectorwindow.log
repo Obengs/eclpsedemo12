@@ -1,15 +1,16 @@
 VirtualBox GUI VM Selector Window 5.2.20 r125813 win.amd64 (Oct 15 2018 15:10:47) release log
-00:00:00.464756 Log opened 2018-10-24T21:19:23.886591100Z
-00:00:00.464756 Build Type: release
-00:00:00.464756 OS Product: Windows 10
-00:00:00.464756 OS Release: 10.0.17134
-00:00:00.464756 OS Service Pack: 
-00:00:00.474730 DMI Product Name: XPS 15 9570
-00:00:00.477722 DMI Product Version: 
-00:00:00.477722 Host RAM: 16117MB (15.7GB) total, 8088MB (7.8GB) available
-00:00:00.477722 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
-00:00:00.477722 Process ID: 6724
-00:00:00.477722 Package type: WINDOWS_64BITS_GENERIC
-00:00:00.477722 Qt version: 5.6.2
-00:00:00.515620 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.781932 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.433915 Log opened 2019-02-01T12:14:34.599767400Z
+00:00:00.433915 Build Type: release
+00:00:00.433915 OS Product: Windows 10
+00:00:00.433915 OS Release: 10.0.17134
+00:00:00.433915 OS Service Pack: 
+00:00:00.441894 DMI Product Name: XPS 15 9570
+00:00:00.444885 DMI Product Version: 
+00:00:00.444885 Host RAM: 16116MB (15.7GB) total, 8085MB (7.8GB) available
+00:00:00.444885 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.444885 Process ID: 15540
+00:00:00.444885 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.444885 Qt version: 5.6.2
+00:00:00.458848 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.625440 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.655379 refreshCertificates/#3: Found 1/150 SSL certs we/you trust (previously 1/81).

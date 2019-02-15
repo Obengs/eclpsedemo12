@@ -14,8 +14,8 @@
       <ExtraDataItem name="GUI/RecentListCD" value="C:\Users\Obeng\Downloads\ubuntu-18.04.1-desktop-amd64.iso"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="689,1378"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="None"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="3"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2018-10-25, stable, 5.2.20"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="4"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-02-02, stable, 5.2.20"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{73116bc4-cc1d-41ce-b687-1beba159f46f}" src="C:\Users\Obeng\VirtualBox VMs\ubuntu linux\ubuntu linux.vbox"/>
